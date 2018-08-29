@@ -11,6 +11,8 @@ Objective-C to Swift code. Objective-C代码转Swift.
 
 # 例子
 
+`python oc2swift_model.py /Users/name/Project/axxx/src/Buyer/Module/Order/Model/BYOrderListModel.h`
+
 ### Objective-C
 
 ~~~objective-c
